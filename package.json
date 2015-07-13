@@ -1,7 +1,9 @@
 {
   "plugins": {},
   "devDependencies": {
+    "metalsmith": "^1.7.0",
     "metalsmith-archive": "^0.1.1",
+    "metalsmith-assets": "^0.1.0",
     "metalsmith-markdown": "^0.2.1",
     "metalsmith-templates": "^0.7.0",
     "swig": "^1.4.2"
